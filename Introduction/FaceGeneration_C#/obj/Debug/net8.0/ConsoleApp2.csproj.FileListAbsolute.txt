@@ -1,0 +1,14 @@
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.deps.json
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.dll
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache
+/media/deep/889A2C379A2C24621/courses/PyDeploy/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll
