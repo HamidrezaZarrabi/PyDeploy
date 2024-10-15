@@ -26,10 +26,10 @@ def ASCII2Char(ascii: int):
     return chr(ascii)
 
 @app.get('/ImgGeneration/{width}/{height}/{red}/{green}/{blue}/{scale_status}')
-def ImgGeneration(width: int, height: int, red: int, green: int, blue: int, scale_status):
+def ImgGeneration(width: int, height: int, red: float, green: float, blue: float, scale_status):
     if (scale_status == 'scaled'):
         if (0 <= red <= 1) and (0 <= green <= 1) and (0 <= blue <= 1):
-            [red, green, blue] = np.array([red, green, blue] , 255)
+            [red, green, blue] = np.multiply([red, green, blue] , 255)
             encoded_img = generate_img(width, height, red, green, blue)
             return StreamingResponse(io.BytesIO(encoded_img.tobytes()), media_type='image/png') 
         else:
