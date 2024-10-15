@@ -17,8 +17,8 @@ def generate_img(width, height, red, green, blue):
 
 app = FastAPI()
 
-app.get('/')
-def roor():
+@app.get('/')
+def root():
     return "Welcome!"
 
 @app.get('/ASCII2Char/{ascii}')
