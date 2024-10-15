@@ -17,6 +17,14 @@ def generate_img(width, height, red, green, blue):
 
 app = FastAPI()
 
+app.get('/')
+def roor():
+    return "Welcome!"
+
+@app.get('/ASCII2Char/{ascii}')
+def ASCII2Char(ascii: int):
+    return chr(ascii)
+
 @app.get('/ImgGeneration/{width}/{height}/{red}/{green}/{blue}/{scale_status}')
 def ImgGeneration(width: int, height: int, red: int, green: int, blue: int, scale_status):
     if (scale_status == 'scaled'):
