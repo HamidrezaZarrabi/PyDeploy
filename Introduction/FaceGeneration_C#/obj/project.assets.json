@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/deep/889A2C379A2C24621/courses/PyDeploy/FastAPI/PyDeploy/FaceGeneration_C#/ConsoleApp2.csproj",
+      "projectUniqueName": "/media/deep/889A2C379A2C24621/courses/PyDeploy/Introduction/FaceGeneration_C#/ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "/media/deep/889A2C379A2C24621/courses/PyDeploy/FastAPI/PyDeploy/FaceGeneration_C#/ConsoleApp2.csproj",
+      "projectPath": "/media/deep/889A2C379A2C24621/courses/PyDeploy/Introduction/FaceGeneration_C#/ConsoleApp2.csproj",
       "packagesPath": "/home/deep/.nuget/packages/",
-      "outputPath": "/media/deep/889A2C379A2C24621/courses/PyDeploy/FastAPI/PyDeploy/FaceGeneration_C#/obj/",
+      "outputPath": "/media/deep/889A2C379A2C24621/courses/PyDeploy/Introduction/FaceGeneration_C#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/deep/.nuget/NuGet/NuGet.Config"
